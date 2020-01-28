@@ -1,0 +1,11 @@
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\Lab3-1\obj\Debug\netcoreapp3.1\Lab3-1.csprojAssemblyReference.cache
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\Lab3-1\obj\Debug\netcoreapp3.1\Lab3-1.AssemblyInfoInputs.cache
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\Lab3-1\obj\Debug\netcoreapp3.1\Lab3-1.AssemblyInfo.cs
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\Lab3-1\bin\Debug\netcoreapp3.1\Lab3-1.exe
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\Lab3-1\bin\Debug\netcoreapp3.1\Lab3-1.deps.json
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\Lab3-1\bin\Debug\netcoreapp3.1\Lab3-1.runtimeconfig.json
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\Lab3-1\bin\Debug\netcoreapp3.1\Lab3-1.runtimeconfig.dev.json
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\Lab3-1\bin\Debug\netcoreapp3.1\Lab3-1.dll
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\Lab3-1\bin\Debug\netcoreapp3.1\Lab3-1.pdb
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\Lab3-1\obj\Debug\netcoreapp3.1\Lab3-1.dll
+C:\Users\mdubose\OneDrive - Knex\Documents\DB\Lab3-1\obj\Debug\netcoreapp3.1\Lab3-1.pdb
